@@ -1,0 +1,11 @@
+Model Information:
+* title:	Electric Scooter (Low-poly, game-ready)
+* source:	https://sketchfab.com/3d-models/electric-scooter-low-poly-game-ready-e22bffc784b04a93acc83599fa7a81c0
+* author:	Delandi (https://sketchfab.com/delandi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Electric Scooter (Low-poly, game-ready)" (https://sketchfab.com/3d-models/electric-scooter-low-poly-game-ready-e22bffc784b04a93acc83599fa7a81c0) by Delandi (https://sketchfab.com/delandi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
